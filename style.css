@@ -184,7 +184,7 @@ button {
 }
 
 .slider .slide .lata img {
-    width: 270px;
+    width: 230px;
     transition: transform 0.3s ease, filter 0.3s ease;
     cursor: pointer;
     position: relative;
