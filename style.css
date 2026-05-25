@@ -793,7 +793,7 @@ button {
 
     .slider .slide .lata {
         left: 50%;
-        top: 52%;
+        top: 60%;
         transform: translate(-50%, -50%);
     }
     .slider .slide .lata img { width: 100px; }
