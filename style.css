@@ -796,7 +796,7 @@ button {
         top: 48%;
         transform: translate(-50%, -50%);
     }
-    .slider .slide .lata img { width: 130px; }
+    .slider .slide .lata img { width: 100px; }
     .slider .slide .lata::after { width: 30%; bottom: -10px; height: 10px; }
 
     .slider .slide[data-index] .conteudo h1,
